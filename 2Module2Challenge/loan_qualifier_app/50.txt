@@ -1,0 +1,38 @@
+    1  cd c:/Users/Broth/Fintech_RandyMiyazaki
+    2  ls
+    3  ls
+    4  ls
+    5  cd *2*
+    6  ls
+    7  cd *
+    8  ls
+    9  cd qua*
+   10  cd qualifier
+   11  l
+   12  ls
+   13  ls -R
+   14  ls -1R
+   15  ls
+   16  python app.py
+   17  ls
+   18  cd ..
+   19  ls
+   20  python app.py
+   21  python app.py
+   22  ls
+   23  ls
+   24  vi 111.csv
+   25  ls
+   26  vi 11111.csv
+   27  vi 1111.csv
+   28  ls
+   29  rm 1*csv
+   30  python app.py
+   31  python app.py
+   32  python app.py
+   33  cat 700,csv
+   34  cat 700.csv
+   35  history 50 >50.txt
+   36  vi 50.txt
+   37  vi 50.txt
+   38  history 50 >50.txt
