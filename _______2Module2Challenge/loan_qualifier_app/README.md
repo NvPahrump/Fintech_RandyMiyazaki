@@ -8,7 +8,7 @@ Loan Qualifier App
 
 This app allows the user the ability to save the qualifying loans to a CSV file to share the results as a spreadsheet.
 
-## github.coim repo 
+## github.com repo 
 
 	https://github.com/NvPahrump/Fintech_RandyMiyazaki/tree/main/Module_2_SChallenge
 
