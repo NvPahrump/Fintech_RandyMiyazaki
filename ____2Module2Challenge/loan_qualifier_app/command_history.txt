@@ -1,0 +1,50 @@
+   36  git push README.md
+   37  git push loan_qualifier_app/README.md
+   38  git add loan_qualifier_app/README.md
+   39  git push loan_qualifier_app/README.md
+   40  git add loan_qualifier_app/README.md
+   41  git push 
+   42  git push -f loan_qualifier_app/README.md
+   43  git push -f loan_qualifier_app README.md
+   44  git add loan_qualifier_app/README.md
+   45  git push loan_qualifier_app/README.md
+   46  git push -f loan_qualifier_app
+   47  git push loan_qualifier_app
+   48  git push 
+   49  cd ..
+   50  ls
+   51  git add -A
+   52  git push
+   53  git commit
+   54  git commmit
+   55   commmit
+   56  git commit
+   57  git commit -m "2"
+   58  git push
+   59  ls
+   60  git add -A
+   61  git commit -m "2"
+   62  git push
+   63  pwd
+   64  pwd
+   65  cd __*
+   66  ls
+   67  pwd
+   68  python app.py
+   69  ls
+   70  cd l*
+   71  python app.py
+   72  cat qualifying_loans.csv
+   73  cd ..
+   74  pwd
+   75  cd ..
+   76  ls
+   77  history
+   78  history 50
+   79  ls
+   80  git add -A
+   81  git commit -m "3"
+   82  git cpush
+   83  git push
+   84  pwd
+   85  history 50 > command_history.txt
