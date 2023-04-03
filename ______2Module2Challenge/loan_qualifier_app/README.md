@@ -8,6 +8,10 @@ Loan Qualifier App
 
 This app allows the user the ability to save the qualifying loans to a CSV file to share the results as a spreadsheet.
 
+## github.coim repo 
+
+	https://github.com/NvPahrump/Fintech_RandyMiyazaki/tree/main/Module_2_SChallenge
+
 ## Technologies
 
 This app is designed for pyton 3.7 on Windows 10.
