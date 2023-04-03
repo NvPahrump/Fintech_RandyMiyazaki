@@ -10,7 +10,7 @@ This app allows the user the ability to save the qualifying loans to a CSV file 
 
 ## github.com repository link
 
-	https://github.com/NvPahrump/Fintech_RandyMiyazaki/tree/main/Module_2_Challenge
+	https://github.com/NvPahrump/Fintech_RandyMiyazaki/tree/main/Module_2_Challenge/loan_qualifier_app
 
 ## Technologies
 
