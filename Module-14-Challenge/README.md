@@ -29,33 +29,33 @@ We provide risk management associate expertise at Alphabet Soup venture capital 
 ## Results
 
 ### 3 Months --------------------------------------------------------------
-![3mo_](Images/3mo_.png)
-![3mo](Images/3mo.png)
+![3mo_](./Images/3mo_.png)
+![3mo](./Images/3mo.png)
 ### 6 Months --------------------------------------------------------------
-![6mo_](Images/6mo_.png)
-![6mo](Images/6mo.png)
+![6mo_](./Images/6mo_.png)
+![6mo](./Images/6mo.png)
 ### 1 Months --------------------------------------------------------------
-![1mo_](Images/1mo_.png)
-![1mo](Images/1mo.png)
+![1mo_](./Images/1mo_.png)
+![1mo](./Images/1mo.png)
 
 ### What impact resulted from increasing or decreasing the training window?
 Increasing the window from 3 Months to 6 Months led to an 0.08 point increase in accuracy, 0.48 to 0.56. While lowering from 3 months to 1 month, decreased the accuracy by 0.01 from 0.56 to 0.55. The Strategy Returns is highest at 1.8 for 6 months.
 
 ### 6mo-8-100sw ------------------------------------------------------------------
-![6mo-8-100_](Images/6mo-8-100_.png)
-![6mo-8-100](Images/6mo-8-100.png)
+![6mo-8-100_](./Images/6mo-8-100_.png)
+![6mo-8-100](./Images/6mo-8-100.png)
 
 ### 6mo-1-100 sw ------------------------------------------------------------------
-![6mo-1-100_](Images/6mo-1-100_.png)
-![6mo-1-100](Images/6mo-1-100.png)
+![6mo-1-100_](./Images/6mo-1-100_.png)
+![6mo-1-100](./Images/6mo-1-100.png)
 
 ### What impact resulted from increasing or decreasing either or both of the SMA windows?
 
 Increasing the SMA window from 4-100 to 8-100 improve the Strategy Returns from late 2019 to early 2021, and the 1.0 f1-score slilghtly from 0.71 to 0.72.
 
 ### -lr-6mo-8-100 ------------------------------------------------------------------
-![lr-6mo-8-100_](Images/lr-6mo-8-100_.png)
-![lr-6mo-8-100](Images/lr-6mo-8-100.png)
+![lr-6mo-8-100_](./Images/lr-6mo-8-100_.png)
+![lr-6mo-8-100](./Images/lr-6mo-8-100.png)
 
 ### Did this new model perform better or worse than the provided baseline model? 
 
