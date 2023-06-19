@@ -51,15 +51,15 @@ Runs under git-bash which uses
 
 ## To Run on Git-Bash:
 
-    cd Module_4_Challenge
+    cd Module_5_Challenge
     conda activate dev
     jupyter lab
     
 ## On Jupyter
 
-## 		1) set .env too the correct API KEYS
+## 		1) rename RENAME.env to .env the correct API KEYS
 
-	.env
+	mv RENAME.env .env
 
 ## 		2) open file and run:
 
